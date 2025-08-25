@@ -20,3 +20,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neda-karimi&layout=compact&theme=radical)
 
 💌 Contact: [neda.kaarimii@gmail.com](mailto:neda.kaarimii@gmail.com)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=neda-karimi&theme=dark&hide_border=true)](https://git.io/streak-stats)
