@@ -22,5 +22,4 @@
 💌 Contact: [neda.kaarimii@gmail.com](mailto:neda.kaarimii@gmail.com)
 
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neda-karimi&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=neda-karimi)
